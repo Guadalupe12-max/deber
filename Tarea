@@ -1,0 +1,143 @@
+[
+  {
+    "nombre": "jose",
+    "apellido": "campoverde",
+    "ciclo": "4",
+    "edad": 19,
+    "AñoNacimieto": 1999
+  },
+  {
+    "nombre": "Esthela",
+    "apellido": "Lata",
+    "ciclo": "4-A",
+    "edad": 19,
+    "AñoNacimieto": 1999
+  },
+  {
+    "nombre": "Geovanny",
+    "apellido": "Herrera",
+    "ciclo": "4-A",
+    "edad": 19,
+     "AñoNacimieto": 1999
+  },
+   {
+    "nombre": "Fredy",
+    "apellido": "Herrera",
+    "ciclo": "4-A",
+    "edad": 19,
+      "AñoNacimieto": 1999
+  },
+   {
+    "nombre": "Guadalupe",
+    "apellido": "Astudillo",
+    "ciclo": "4-A",
+    "edad": 19,
+     "AñoNacimieto": 1999
+  },
+   {
+    "nombre": "Karol",
+    "apellido": "Peñafiel",
+    "ciclo": "4-A",
+    "edad": 18,
+      "AñoNacimieto": 2000
+  },
+   {
+    "nombre": "Bryan",
+    "apellido": "Romero",
+    "ciclo": "4-A",
+    "edad": 19,
+    "AñoNacimieto": 1999
+  },
+   {
+    "nombre": "Jhonnatan",
+    "apellido": "Peralta",
+    "ciclo": "4-A",
+    "edad": 19,
+  "AñoNacimieto": 1999
+  },
+   {
+    "nombre": "Erik",
+    "apellido": "Peralta",
+    "ciclo": "4-A",
+    "edad": 19,
+     "AñoNacimieto": 1999
+  },
+   {
+    "nombre": "Agustin",
+    "apellido": "Ortega",
+    "ciclo": "4-A",
+    "edad": 19,
+     "AñoNacimieto": 1999
+  },
+   {
+    "nombre": "Mercy",
+    "apellido": "Sumba",
+    "ciclo": "4-A",
+    "edad": 19,
+    "AñoNacimieto": 1999
+  },
+  {
+    "nombre": "Jaime",
+    "apellido": "Sumba",
+    "ciclo": "4-A",
+    "edad": 23,
+     "AñoNacimieto": 1997
+  },
+  {
+    "nombre": "Lorena",
+    "apellido": "Dutan",
+    "ciclo": "4-A",
+    "edad": 19,
+     "AñoNacimieto": 1999
+  },
+  {
+    "nombre": "Jeferson",
+    "apellido": "trelles",
+    "ciclo": "4-A",
+    "edad": 19,
+     "AñoNacimieto": 1999
+  }
+]
+  {
+    "name": "Mauricio",
+    "apellido": "Palomino",
+    "Sexo": "Hombre",
+    "Genero": "Masculino",
+    "Titulo": "Desarrollo de aplicaciones moviles"
+  },
+  {
+    "name": "Javier",
+    "apellido": "Romero",
+    "Sexo": "Hombre",
+    "Genero": "Masculino",
+    "Titulo": "Programacion de aplicaciones web"
+  },
+  {
+    "name": "Adrian",
+    "apellido": "Guzman",
+    "Sexo": "Hombre",
+    "Genero": "Masculino",
+   "Titulo": "Estadistica Descriptiva"
+  },
+  {
+    "name": "Juan Pablo",
+    "apellido": "Araujo",
+    "Sexo": "Hombre",
+    "Genero": "Masculino",
+     "Titulo": "Diversidad Cultural"
+  },
+  {
+    "name": "Cristina",
+    "apellido": "Cuenca",
+    "Sexo": "Mujer",
+    "Genero": "Femenino",
+     "Titulo": "Legislacion informatica"
+  },
+  {
+    "name": "Alexandra",
+    "apellido": "Molina",
+    "Sexo": "Mujer",
+    "Genero": "Femenino",
+    "Titulo": "B1.2"
+  }
+]
